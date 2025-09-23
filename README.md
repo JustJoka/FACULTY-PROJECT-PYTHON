@@ -7,3 +7,9 @@ Custo: É economico por usar um hardware comum e de baixo custo, para grande vol
 Suporta diversos tipos de dados, estruturados e não estruturados <br>
 Tolerancia a falhas: replica os dados em multiplos nós, recuperando automaticamente de falhas.
 Análise de Big Data: Excelente para grandes conjuntos de dados e processos ETL  (extrair, transformar e carregar) 
+
+Desvantagens:
+Latencia: acessa o disco com frequencia, resultando em tarefas mais lentas.
+Complexidade do mapReduce: a curva de aprendizado do mapReduce para escrever e gerenciar dados pode ser ingreme.
+Segurança: Não possui uma segurança muito robusta.
+gerenciamento de recursos: a otimização de tarefas e gerenciamento de recursos pode ser ineficiente em cluster grandes.
