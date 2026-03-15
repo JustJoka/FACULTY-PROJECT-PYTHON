@@ -24,6 +24,7 @@ Tkinter
 
 SQLite
 <br>
+<br>
 📂 Estrutura do Projeto
 <br>
 controle_pedidos/<br>
